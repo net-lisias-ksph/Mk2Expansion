@@ -1,5 +1,16 @@
 # Mk2Expansion :: Change Log
 
+* 2016-1226: 1.7.26 (SuicidalInsanity) for KSP 1.2
+	+ New Part: Shrouded Thermal Control System
+	+ Part Rework: Hypersonic Nosecone
+	+ Part Rework: Spadetail
+	+ Hypersonic Cockpit and Hypersonic nosecone max temp increased
+	+ Fixed engine FX, removes Aero FX/Engine FX interaction
+	+ Tweaked Afterburn thrust curve
+	+ 'Vector' turbojet mass reduced
+	+ 'Wedge' Linear Aerospike mass reduced
+	+ 'Sledgehammer' Air-Augmented rocket thrust reduced
+	+ Various part costs adjusted to be more in line with stock prices
 * 2016-1113: 1.7.25 (SuicidalInsanity) for KSP 1.2
 	+ Fixes Service Bay occulsion issue
 	+ Tweaked Ramjet ThrustCurve
