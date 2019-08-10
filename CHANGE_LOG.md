@@ -1,5 +1,13 @@
 # Mk2Expansion :: Change Log
 
+* 2018-0314: 1.8.1 (SuicidalInsanity) for KSP 1.4.
+	+ KSP 1.4.X update
+		- Part Refactor: L/T/X Hubs lighter, now hold fuel
+		- Jets now have custom sounds
+		- Fixes LiftFan SurfaceFX
+		- Xenon tank mass rebalances
+		- Service tank now properly holds 200 Monopropellant
+		- update to Russian localization, credit to yalov
 * 2018-0120: 1.8.06 (SuicidalInsanity) for KSP 1.3.1
 	+ improves throttle response of prop engines
 	+ Fixes Turboprop IntakeAir use
