@@ -1,5 +1,21 @@
 # Mk2Expansion :: Change Log
 
+* 2018-1024: 1.8.3 (SuicidalInsanity) for KSP 1.5
+	+ 1.8.3.5
+		- Fixes missing bulkhead profiles
+		- Fixes Atmospheric RCS variants
+	+ 1.8.3.4
+		- Fixes M2X-USILS MM patch
+		- tweaks MFT patch, should play nicer with B9 PS now
+		- tweaks MM patches with multiple needs, should throw less errors now
+		- Adds Atmospheric RCS blister
+	+ 1.8.3.3
+	+ KSP 1.5 update
+		- conversion to B9 PartSwitch from IFS
+		- Adds optional scramjet patch to reduce scramjet performance to stock scale appropriate levels.
+		- Part Rework: Mk2 Nosecone now has non-HRSI variants
+	+ 1.8.3.2
+		- Fixes B9 fatal errors with MFT
 * 2018-0711: 1.8.2 (SuicidalInsanity) for KSP 1.4.4
 	+ KSP 1.4.4 maintenance update
 	+ Updated part Specular masks/texturemaps for improved TexturesUnlimited compatibility
