@@ -1,5 +1,7 @@
 # Mk2Expansion :: Change Log
 
+* 2017-1101: 1.8.05 (SuicidalInsanity) for KSP 1.3.1
+	+ Adds Russian Localization courtesy of yalov
 * 2017-1013: 1.8.04 (SuicidalInsanity) for KSP 1.3.1
 	+ KSP 1.3.1 update
 		- Extends atmCurves for all airbreathing engines; now correctly have higher thrust in denser atmospheres - Eve/Tellumo/etc.
