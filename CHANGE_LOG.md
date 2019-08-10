@@ -1,5 +1,17 @@
 # Mk2Expansion :: Change Log
 
+* 2017-0715: 1.7.7 (SuicidalInsanity) for KSP 1.3
+	+ Updates/fixes NFE patch
+	+ Added ConfigurableContainers exception to IFS patch in case of edge case incompatibility
+	+ New Part: Long crew tank
+	+ New Part: Hollow Structural Adapter Short
+	+ New Part: Hollow Structural Adapter Long
+	+ Part Rework: Banshee fans now easier to tell which side is up
+	+ added surface attach to the mk2 structural tube
+	+ reduced Hypersonic Nose fuel capacity
+	+ fixes mk2 decoupler drag issue
+	+ fixes mesh normal error on Hollow Structural Adapters
+	+ Fixes Long Cabin IVA collider issue
 * 2017-0530: 1.7.5 (SuicidalInsanity) for KSP 1.3
 	+ Update for KSP 1.3
 	+ Model Rework: Mk2 Science Lab
