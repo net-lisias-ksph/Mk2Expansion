@@ -1,5 +1,16 @@
 # Mk2Expansion :: Change Log
 
+* 2017-0225: 1.7.35 (SuicidalInsanity) for KSP 1.2
+	+ Fixes Vector turbojet attach node
+	+ fixes shrouded solar panel MaxTemp
+	+ Fixes NUK-3 reactor cooling issue
+	+ Max level engineers no longer required for full reactor output, engineers will provide slight boost to reactor output
+	+ Added USI compatibility MM patches courtesy of Merkov
+	+ Fixes MM patch conflict with GTindustries
+	+ Fixes NFE issue with the Pluto NTR
+	+ New Part: Mk2 Structural tube
+	+ New custom DragCubes for a few parts, should fix drag issues
+	+ Model Rework: R-71 cockpit, adds second seat, new IVA
 * 2016-1226: 1.7.26 (SuicidalInsanity) for KSP 1.2
 	+ New Part: Shrouded Thermal Control System
 	+ Part Rework: Hypersonic Nosecone
