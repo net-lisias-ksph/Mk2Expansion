@@ -1,5 +1,7 @@
 # Mk2Expansion :: Change Log
 
+* 2018-0404: 1.0 (SuicidalInsanity) for KSP 1.4.
+	+ Craft featured in the Mk2 Expansion banner image in the M2X thread's opening post.
 * 2018-0314: 1.8.1 (SuicidalInsanity) for KSP 1.4.
 	+ KSP 1.4.X update
 		- Part Refactor: L/T/X Hubs lighter, now hold fuel
