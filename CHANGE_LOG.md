@@ -1,5 +1,16 @@
 # Mk2Expansion :: Change Log
 
+* 2019-0423: 1.8.4.1 (SuicidalInsanity) for KSP 1.7
+	+ Fixes missing Aerospike fairing
+	+ Fixes tweakscale patch. Should no longer duplicate settings
+	+ Fixes MM syntax error with M2X_KA patch
+	+ Fixes MM syntax error with M2X_NFE patch
+	+ Fixes nuclear engine costs when using NFE
+	+ Fixes Inline banshee negative collider
+	+ Fixes B9 localization issue
+	+ Fixes OMS Pod white texture
+	+ Updates the USILS patch to current USILS build
+	+ Updates Windowshine MM patch
 * 2019-0412: 1.8.4 (SuicidalInsanity) for KSP 1.7
 	+ KSP 1.7 update
 	+ New Part: Mk2 battery bank
