@@ -1,5 +1,7 @@
 # Mk2Expansion :: Change Log
 
+* 2015-1112: 1.6.11 (SuicidalInsanity) for KSP 1.0
+	+ No changelog provided
 * 2015-1001: 1.6.05 (SuicidalInsanity) for KSP 1.0
 	+ No changelog provided
 * 2015-0924: 1.6 (SuicidalInsanity) for KSP 1.0
