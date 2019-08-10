@@ -1,5 +1,18 @@
 # Mk2Expansion :: Change Log
 
+* 2019-0412: 1.8.4 (SuicidalInsanity) for KSP 1.7
+	+ KSP 1.7 update
+	+ New Part: Mk2 battery bank
+	+ Fixes missing bulkhead profiles
+	+ Banshee Fans now transition between horiz/vert flight options
+	+ J Edgar now has standalone variant for radial placement
+	+ Aerospike performance refactored, slightly more thrust for slightly less ISP
+	+ Afterburn subsonic performance buffed slightly
+	+ X and T structural hub now have stack symmetry
+	+ Fixes Siddeley localization error
+	+ Fixes Aerospike smokeFX
+	+ Fixes scaled flag for agency contracts
+	+ Adds Whitelist for ReStock compatibility
 * 2018-1024: 1.8.3 (SuicidalInsanity) for KSP 1.5
 	+ 1.8.3.5
 		- Fixes missing bulkhead profiles
