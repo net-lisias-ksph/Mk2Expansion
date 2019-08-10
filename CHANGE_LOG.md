@@ -1,5 +1,11 @@
 # Mk2Expansion :: Change Log
 
+* 2018-0711: 1.8.2 (SuicidalInsanity) for KSP 1.4.4
+	+ KSP 1.4.4 maintenance update
+	+ Updated part Specular masks/texturemaps for improved TexturesUnlimited compatibility
+	+ Boosted EngineFX particle density
+	+ Example craft no longer contain stock legacy parts
+	+ Fixes Banshee/Whirligig unpiloted craft engine activation bug
 * 2018-0404: 1.0 (SuicidalInsanity) for KSP 1.4.
 	+ Craft featured in the Mk2 Expansion banner image in the M2X thread's opening post.
 * 2018-0314: 1.8.1 (SuicidalInsanity) for KSP 1.4.
