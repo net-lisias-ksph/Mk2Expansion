@@ -1,5 +1,45 @@
 # Mk2Expansion :: Change Log
 
+* 2017-0908: 1.8 (SuicidalInsanity) for KSP 1.3
+	+ Fixes Localization issue for Rontgen and Hyperblast
+	+ Fixes Sledgehammer AARE not loading
+	+ Fixes HS-X cockpit mesh errors
+	+ Fixes persistent plume on ESTOC/MATTOCK
+	+ Fixes M2X Stork example craft
+	+ Fixes Sledgehammer AARE not loading
+	+ Adds Localization framework
+	+ Adds RealPlume-Stock compatibility
+	+ Fixes NFE compatibility patch again
+	+ Fixes mesh hole in HS-X Cockpit IVA
+	+ Fixes Hypersonic cockpit hatch window emissive
+	+ Fixes Shrouded Radiator hatch size
+	+ Fixes Decoupler node alignment
+	+ Fixes Spatular HSNC emissive
+	+ Nerfed Mule Turbofan max thrust slightly
+	+ Increased J.Edgar mass to 2.5t
+	+ Fixed Banshee Velcurve
+	+ Fixed G-120 Turbojet velcurve, now tapers off at high mach
+	+ Fixed ESTOC velcurve, now tapers off at high mach
+	+ Model Rework: CB-C cockpit
+	+ Model Rework: Service Bay
+	+ Model Rework: Ion Engine
+	+ Model Rework: Adapter Intake
+	+ Model Rework: Manta Intake
+	+ Model Rework: Engine Shroud
+	+ Model Rework: Aerospace Mount
+	+ Model Rework: Banshee Fans
+	+ Texture Rework: Airlock Endcap
+	+ Texture Rework: Reactor
+	+ Fixes texture edges on various parts, seams now align properly with stock Mk2 parts
+	+ Adds Thermal Emissive to Precooler
+	+ Adds Thermal emissive to Circular Intake
+	+ Adds Thermal emissive/Engine FX to J.Edgar
+	+ Servicebay Xenon/Monoprop tank amounts increased slightly
+	+ Service Tank Monoprop tankage increased
+	+ Service bay now has togglable interior attach nodes
+	+ All crew holding parts now have secondary airlocks at bulkhead doors
+	+ All cockpits now have flags
+	+ Fixes Specular maps on all parts
 * 2017-0715: 1.7.7 (SuicidalInsanity) for KSP 1.3
 	+ Updates/fixes NFE patch
 	+ Added ConfigurableContainers exception to IFS patch in case of edge case incompatibility
