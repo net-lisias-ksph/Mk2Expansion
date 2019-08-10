@@ -1,5 +1,21 @@
 # Mk2Expansion :: Change Log
 
+* 2017-0530: 1.7.5 (SuicidalInsanity) for KSP 1.3
+	+ Update for KSP 1.3
+	+ Model Rework: Mk2 Science Lab
+	+ Model Rework: SC-TD Multipurpose Cockpit
+	+ Model Rework: HSNC now has spatular variant
+	+ Model Rework: Nosecap
+	+ Model Rework: Rontgen nuclear jet
+	+ Model Rework: Linear Aerospike
+	+ Banshee Lift Fan SFX volume reduced
+	+ HSNC and SSNC now use updated RSCFX
+	+ Fixes Omni RCS parts clipping into surfaces
+	+ Adds optional MM patch to add reactor heat/decay mechanics to Rontgen
+	+ Removes Scramjet thrust Offset
+	+ Added Engine Lights
+	+ R-71 cockpit now has ASET IVA
+	+ Tweakscale Patch has been updated courtesy of eberkain
 * 2017-0225: 1.7.35 (SuicidalInsanity) for KSP 1.2
 	+ Fixes Vector turbojet attach node
 	+ fixes shrouded solar panel MaxTemp
