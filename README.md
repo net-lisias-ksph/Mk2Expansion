@@ -18,3 +18,8 @@ ModuleManager - made by Sarbian & Ialdabaoth - http://forum.kerbalspaceprogram.c
 Interstellar Fuel Switch is distributed under its own licence (CC-NC-SA). Please find source code and more details at https://github.com/sswelm/KSPInterstellar/tree/master/FuelSwitch
 
 Community Resource Pack, more details at http://forum.kerbalspaceprogram.com/threads/91998
+
+UPSTREAM
+===================================================================================================================
+https://github.com/SuicidalInsanity/Mk2Expansion.git
+https://forum.kerbalspaceprogram.com/index.php?/topic/109145-*
