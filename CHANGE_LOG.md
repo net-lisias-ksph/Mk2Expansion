@@ -1,5 +1,21 @@
 # Mk2Expansion :: Change Log
 
+* 2016-1113: 1.7.25 (SuicidalInsanity) for KSP 1.2
+	+ Fixes Service Bay occulsion issue
+	+ Tweaked Ramjet ThrustCurve
+	+ Tweaked Scramjet ThrustCurve
+	+ Mule Turbofan moved to SupersonicFlight
+	+ Scramjet moved to AerospaceTech, costs adjusted
+	+ Increased Service Tank resource storage capacity
+	+ FF5Way RCS now has Hullmetal White variant
+	+ Mk2 reactor NFE mm patch tweaked, should now produce full rated power when using NFE
+	+ Ramjet now has gimbal
+	+ VTOL engine gimbals restored
+	+ Added cockpit IVA ViewTransforms
+	+ Model Rework: HS-X cockpit
+	+ Model Rework; JE-1 'Mule' turbofan; added size1/mk2 attachment
+	+ Banshee reverted to LF/O fuelmode; alternate fuel modes added via MM patches
+	+ Banshee thrust buffed slightly
 * 2016-1013: 1.7.20 (SuicidalInsanity) for KSP 1.2
 	+ Fixes nosebay mesh configuration issue
 	+ Update for KSP 1.2
