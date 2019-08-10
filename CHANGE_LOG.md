@@ -1,5 +1,13 @@
 # Mk2Expansion :: Change Log
 
+* 2017-1013: 1.8.04 (SuicidalInsanity) for KSP 1.3.1
+	+ KSP 1.3.1 update
+		- Extends atmCurves for all airbreathing engines; now correctly have higher thrust in denser atmospheres - Eve/Tellumo/etc.
+		- Model Rework: Afterburn
+		- Model Rework: Mule
+		- Model Rework: Vector
+		- Model Rework: Omni RCS/OMS blister
+		- Fixes Banshee Fan SFX
 * 2017-0908: 1.8 (SuicidalInsanity) for KSP 1.3
 	+ Fixes Localization issue for Rontgen and Hyperblast
 	+ Fixes Sledgehammer AARE not loading
