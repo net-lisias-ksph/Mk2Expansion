@@ -1,5 +1,10 @@
 # Mk2Expansion :: Change Log
 
+* 2018-0120: 1.8.06 (SuicidalInsanity) for KSP 1.3.1
+	+ improves throttle response of prop engines
+	+ Fixes Turboprop IntakeAir use
+	+ Fixes some localization typos
+	+ Fixes Siddley VTOL model
 * 2017-1101: 1.8.05 (SuicidalInsanity) for KSP 1.3.1
 	+ Adds Russian Localization courtesy of yalov
 * 2017-1013: 1.8.04 (SuicidalInsanity) for KSP 1.3.1
