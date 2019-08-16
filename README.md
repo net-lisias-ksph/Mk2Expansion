@@ -23,3 +23,4 @@ UPSTREAM
 ===================================================================================================================
 https://github.com/SuicidalInsanity/Mk2Expansion.git
 https://forum.kerbalspaceprogram.com/index.php?/topic/109145-*
+https://imgur.com/a/Tc2kF
