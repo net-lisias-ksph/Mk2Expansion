@@ -1,5 +1,21 @@
 # Mk2Expansion :: Change Log
 
+* 2019-0824: 1.8.6 (SuicidalInsanity) for KSP 1.7.3
+	+ New Part: 'Corgi' Vacuum rocket Engine
+	+ New Part: 'Trident' Rocket Engine
+	+ New Part: Mk2 Bicoupler
+	+ Part Rework: ESTOC
+	+ part Rework: MATTOCK
+	+ HS-X IVA tweaks
+	+ Fixes Tweakscale error on Mk2 Endcap
+	+ Fixes TweakScale warning on Root Chines
+	+ removes extraneous :FOR MM syntax
+	+ Aerospike mass, thrust reduced
+	+ ESTOC Isp reduced to 310
+	+ Adds B9PS tank type localization
+	+ Mk1 Chines now properly configed for FAR
+	+ All mk2 parts now have proper crash tolerance/maxtemp/BreakingForce values
+	+ Adds optional 4 seat lab MM parch
 * 2019-0423: 1.8.4.1 (SuicidalInsanity) for KSP 1.7
 	+ Fixes missing Aerospike fairing
 	+ Fixes tweakscale patch. Should no longer duplicate settings
