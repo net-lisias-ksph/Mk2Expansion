@@ -1,5 +1,10 @@
 # Mk2Expansion :: Change Log
 
+* 2019-1109: 1.8.6.5 (SuicidalInsanity) for KSP 1.8.1
+	+ Update for KSP 1.8.1
+		- Fixes HSNC missing texture faces
+		- Fixes Tunapit load error
+		- Adds additional localization, courtesy of Sooll3
 * 2019-0824: 1.8.6 (SuicidalInsanity) for KSP 1.7.3
 	+ New Part: 'Corgi' Vacuum rocket Engine
 	+ New Part: 'Trident' Rocket Engine
