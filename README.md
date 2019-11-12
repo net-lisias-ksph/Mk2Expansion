@@ -21,6 +21,7 @@ Community Resource Pack, more details at http://forum.kerbalspaceprogram.com/thr
 
 UPSTREAM
 ===================================================================================================================
-https://github.com/SuicidalInsanity/Mk2Expansion.git
 https://forum.kerbalspaceprogram.com/index.php?/topic/109145-*
+https://spacedock.info/mod/473/Mk2%20Stockalike%20Expansion
+https://github.com/SuicidalInsanity/Mk2Expansion.git
 https://imgur.com/a/Tc2kF
