@@ -1,5 +1,16 @@
 # Mk2Expansion :: Change Log
 
+* 2020-0320: 1.8.7 (SuicidalInsanity) for KSP 1.9.1
+	+ update for KSP 1.9
+		- Banshee Fans now have in-game fueltype toggle
+		- Rework of variant part names and descriptions.
+		- Part Remodel: Mallet AASRB
+		- Mallet AASRB mass reduced slightly
+			- New" Part: Shrouded Landing Leg
+		- Fixes CB-C cockpit issue
+		- Fixes Dual-Cycle engine node positions
+		- RealPlume patch should be less broken now (Thanks Rodg88)
+		- MATTOCK smoke now correctly oriented
 * 2019-1123: 1.8.6.6 (SuicidalInsanity) for KSP 1.8.1
 	+ Fixes drag cubes for RCSAS, Aligned Dockingport, and Radial Mounts. These should generate much less drag now
 	+ Fixes Sledgehammer AARE compile error
