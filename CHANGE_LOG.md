@@ -303,6 +303,14 @@
 		- Stationkeeper OMS pod size tweaked
 		- Stationkeeper OMS pod new FX
 		- RCS units now use new FX
+* 2016-0917: 1.13 (SuicidalInsanity) for KSP 1.1.3
+	+ Fixes Mk2 Endcap hatch EVA hatch obstructed issue
+	+ Model Rework: Hyperblast Scramjet
+	+ Fixes RPM CB-C, HS-X, and SC-TD Cockpit overlay masks
+	+ Banshee lift fans now have MM patch for alternate airbreathing mode
+	+ Model Retexture; L-Hub
+	+ FX Rework: Ramjet FX
+	+ Removed Shrouded Landing Leg - broken in KSP 1.1.3, should return in 1.2 once wheels work again
 * 2016-0404: 1.7.0.1 (SuicidalInsanity) for KSP 1.05
 	+ 1.7.13. See included change log for list of changes
 * 2016-0101: 1.7.01-Pre (SuicidalInsanity) for KSP 1.05 PRE-RELEASE
