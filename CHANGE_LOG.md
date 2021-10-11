@@ -1,5 +1,16 @@
 # Mk2Expansion :: Change Log
 
+* 2020-0811: 1.8.9 (SuicidalInsanity) for KSP 1.10.1
+	+ KSP 1.10.1 Update
+	+ New Part: Slanted Mk2-1.25 Adapter
+	+ Fixes decoupler crossfeed issue
+	+ Fixes RCS Blister offset issue
+	+ Banshee Fan doors have better clearance when open
+	+ Part Rework: All Chines have been conglomerated into three configurable omni parts
+	+ Old Chine parts moved to Legacy status
+	+ New Part: Configurable Chine RCS - multivariant RCS similar to the RCS/OMS/ACS blisters
+	+ RC/PG RCS Chine parts moved to Legacy status
+	+ Part Rework: RCSAS
 * 2020-0712: 1.8.8 (SuicidalInsanity) for KSP 1.10.0
 	+ Update for KSP 1.10
 	+ VTOL engine thrusts increased
