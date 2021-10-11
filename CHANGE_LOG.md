@@ -1,5 +1,8 @@
 # Mk2Expansion :: Change Log
 
+* 2021-1009: 1.9.1.2 (SuicidalInsanity) for KSP 1.12.2
+	+ Hotfix update
+			- Fixes Rontgen Engine FX
 * 2021-1005: 1.9.1.1 (SuicidalInsanity) for KSP 1.12.2
 	+ KSP 1.12.x update
 			- Part Rework: Aligned Docking Port
