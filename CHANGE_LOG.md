@@ -1,5 +1,16 @@
 # Mk2Expansion :: Change Log
 
+* 2021-1005: 1.9.1.1 (SuicidalInsanity) for KSP 1.12.2
+	+ KSP 1.12.x update
+			- Part Rework: Aligned Docking Port
+			- Part Rework: Shrouded Docking Port
+			- Fixes missing texture on Whirligig engine
+			- Fixes missing texture on Vector engine
+			- Fixes missing texture on MATTOCk engine
+			- Fixes missing texture on Mongrel engine
+			- Fixes missing texture on Service bay
+			- Fixes mesh issue on Engine Shroud
+			- Fixes spotlights on SC-TD cockpit
 * 2021-1005: 1.9.1 (SuicidalInsanity) for KSP 1.12.
 	+ KSP 1.12.x update
 		- Part Rework: fixes Aligned Docking port missing texture
