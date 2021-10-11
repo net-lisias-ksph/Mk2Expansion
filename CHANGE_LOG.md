@@ -1,5 +1,11 @@
 # Mk2Expansion :: Change Log
 
+* 2019-1123: 1.8.6.6 (SuicidalInsanity) for KSP 1.8.1
+	+ Fixes drag cubes for RCSAS, Aligned Dockingport, and Radial Mounts. These should generate much less drag now
+	+ Fixes Sledgehammer AARE compile error
+	+ Cockpit lights now uniform color
+	+ Fixes R-71 cockpit IVA portraits, kerbals no longer occluded by instrument consoles
+	+ Windowshine MM Patch now calls for TextureReplacer instead of the less up-to-date TextureReplacerReplaced
 * 2019-1109: 1.8.6.5 (SuicidalInsanity) for KSP 1.8.1
 	+ Update for KSP 1.8.1
 		- Fixes HSNC missing texture faces
