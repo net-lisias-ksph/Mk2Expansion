@@ -1,5 +1,13 @@
 # Mk2Expansion :: Change Log
 
+* 2021-0523: 1.9 (SuicidalInsanity) for KSP 1.11.2
+	+ KSP 1.11 update
+		- New Part: Mk2 cargo container
+		- Mk2 adapter endcap now has internal model defined
+		- fixes chine texture url issue
+		- Adds Cargo/Inventory part functionality
+		- Adds System Heat compatibility MM patch
+		- Adds optional MM patch to add dual-cycle option to Rontgen Nuclear Jet
 * 2020-0817: 1.8.9.3 (SuicidalInsanity) for KSP 1.10.1
 	+ Fixes Mk2 Landing leg
 	+ Fixes Banshee Fan door issue
