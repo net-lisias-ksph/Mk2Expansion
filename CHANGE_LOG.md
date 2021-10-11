@@ -1,5 +1,9 @@
 # Mk2Expansion :: Change Log
 
+* 2020-0817: 1.8.9.3 (SuicidalInsanity) for KSP 1.10.1
+	+ Fixes Mk2 Landing leg
+	+ Fixes Banshee Fan door issue
+	+ Fixes RCSAS
 * 2020-0811: 1.8.9.1 (SuicidalInsanity) for KSP 1.10.1
 	+ 1.8.9.1
 		- KSP 1.10.1 Update
