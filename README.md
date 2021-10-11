@@ -20,8 +20,10 @@ Interstellar Fuel Switch is distributed under its own licence (CC-NC-SA). Please
 Community Resource Pack, more details at http://forum.kerbalspaceprogram.com/threads/91998
 
 UPSTREAM
-===================================================================================================================
-https://forum.kerbalspaceprogram.com/index.php?/topic/109145-*
-https://spacedock.info/mod/473/Mk2%20Stockalike%20Expansion
-https://github.com/SuicidalInsanity/Mk2Expansion.git
-https://imgur.com/a/Tc2kF
+=========
+* [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/109145-*/)
+* Imgur
+	+ [Parts Catalog](https://imgur.com/a/Tc2kF)
+	+ [Showcase](https://imgur.com/a/BHXmt)
+* [SpaceDock](https://spacedock.info/mod/473/Mk2%20Stockalike%20Expansion)
+* [Github](https://github.com/SuicidalInsanity/Mk2Expansion)
