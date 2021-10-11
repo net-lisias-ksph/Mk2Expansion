@@ -1,5 +1,12 @@
 # Mk2Expansion :: Change Log
 
+* 2020-0712: 1.8.8 (SuicidalInsanity) for KSP 1.10.0
+	+ Update for KSP 1.10
+	+ VTOL engine thrusts increased
+	+ Aerospike thrust increased slightly
+	+ Fixes JEdgar attach node
+	+ Fixes Nosecap RCS FX
+	+ Part Rework: Boost-O-Tron
 * 2020-0320: 1.8.7 (SuicidalInsanity) for KSP 1.9.1
 	+ update for KSP 1.9
 		- Banshee Fans now have in-game fueltype toggle
