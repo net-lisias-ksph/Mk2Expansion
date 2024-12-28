@@ -1,5 +1,9 @@
 # Mk2Expansion :: Change Log
 
+* 2024-0120: 1.9.1.4 (SuicidalInsanity) for KSP 1.12.2
+	+ Fix broken Fuelswitch patch
+	+ Fix offset WaterfallFX on the Mongrel VTOL engine
+	+ Add ModuleLiftingSurface to some Mk2 parts that were missing it.
 * 2023-1202: 1.9.1.3 (SuicidalInsanity) for KSP 1.12.2
 	+ KSP 1.12.5 update
 	+ Adjusts Lift Fan Intake capacity and Air use in thin atmospheres
