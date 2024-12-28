@@ -1,5 +1,13 @@
 # Mk2Expansion :: Change Log
 
+* 2023-1202: 1.9.1.3 (SuicidalInsanity) for KSP 1.12.2
+	+ KSP 1.12.5 update
+	+ Adjusts Lift Fan Intake capacity and Air use in thin atmospheres
+	+ Fixes potential localization issue with variant parts B9PS configs
+	+ fix a few MODEL config bugs
+	+ Fixes SystemHeat bug with nuclear parts
+	+ Reactor EC generation and storage increased to 400 for parity with NFE/SH versions
+	+ Adds Waterfall FX support, courtesy of Tagir-1
 * 2021-1009: 1.9.1.2 (SuicidalInsanity) for KSP 1.12.2
 	+ Hotfix update
 			- Fixes Rontgen Engine FX
